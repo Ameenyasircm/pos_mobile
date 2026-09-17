@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111340213053",
+    "project_id": "pos-system-95357",
+    "storage_bucket": "pos-system-95357.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111340213053:android:0287533d040c0902fe6b54",
+        "android_client_info": {
+          "package_name": "com.codemates.pos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALYOZy1RuYR9wVwn3uO-GuG9eM6b_HRs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
